@@ -1,7 +1,7 @@
 {
-  "name": "XBOT",
+  "name": "AOOBOT",
   "version": "1.0.0",
-  "description": "Xbot for whatsapp online with termux",
+  "description": "AOOBOT for whatsapp online",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -16,12 +16,12 @@
   "author": "affis junianto",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasapv2.git"
+    "url": "git+https://github.com/fids20/botv3"
   },
   "bugs": {
-    "url": "https://github.com/affisjunianto/botwasapv2/issues"
+    "url": "https://github.com/fids20/botv3/issues"
   },
-"homepage": "https://github.com/affisjunianto/botwasapv2/readme",
+"homepage": "https://github.com/fids20/botv3/readme",
 "license": "ISC",
 "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
