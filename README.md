@@ -1,18 +1,17 @@
-Botwasap v3
+*✨AOOBOT✨*
 
 Bayak yang baru
 Check aja sendiri
 
-|-----------------|
+    *𝐑𝐮𝐥𝐞𝐬 - 𝐒𝐢𝐦𝐩𝐥𝐞*
+▬▭▬▭▬▭▬▭▬▭▬▭▬
+●⧐ *Spam/Telpon : Auto Block!*
+●⧐ *Beri Jeda 5detik Saat Menggunakannya!!*
+●⧐ *Bug/Error Harap Cht Owner!*
+●⧐ *Untuk Memastikan Bot Off Atau On*
+●⧐ *Harap Sabar Dengan Bug²nya!*
+●⧐ *Gunakan Bot Sebaik-baiknya!*
+▬▭▬▭▬▭▬▭▬▭▬▭▬
 
-lots of updates
-Just check it yourself 
-If you can help me to translate the bot language please chat me in whatsapp
 
-|-----------------|
-
-My whatsapp
-wa.me/6282334297175
-
-My Instagram
-https://Instagram.com/affis_saputro123
+*✨AOOBOT✨*
